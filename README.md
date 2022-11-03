@@ -1,10 +1,25 @@
-- 👋 Hi, I’m @Zaroxii
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+### Zaroxii - Web Dev
 
-<!---
-Zaroxii/Zaroxii is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<div id="header" align="center">
+  <img src="https://imgs.search.brave.com/YxmLGTq-KEkCX1X9OApKrug4Vyg9MMOFSIqWGFZJ8i4/rs:fit:500:281:1/g:ce/aHR0cHM6Ly9tZWRp/YS5naXBoeS5jb20v/bWVkaWEvV2ZDMzR6/ZEc4SzhPUS9naXBo/eS5naWY.gif" width="500"/>
+</div>
+
+🧙 Étudiant en Informatique à la fac, passionné d'informatique depuis petit, grâce aux jeux-vidéos ou bien encore plus tard par les cryptomonnaies.
+
+👨‍🎓 Je prépare ma license d'informatique (Bac +3)
+
+[![My Skills](https://skillicons.dev/icons?i=react,js,html,css,python)](https://skillicons.dev)
+
+👨‍💻 Mes langages maîtrisés :
+
+-   Langages maîtrisés : Python / JavaScript / HTML / CSS / PhP / MongoDB.
+-   Frontend : ReactJS / Chakra UI / HTML / CSS / JS
+-   Backend : Python / Javascript / JS
+
+📈 Mon parcours :
+
+-   Baccalauréat Géneral ES (2019-20)
+-   Formation en Cours de Développeur Informatique (BAC +3)
+
+[![Disketflu's GitHub stats](https://github-readme-stats.vercel.app/api?username=Zaroxii&show_icons=true&theme=tokyonight)](https://github.com/Zaroxii/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Zaroxii&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
