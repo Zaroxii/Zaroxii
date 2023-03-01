@@ -12,13 +12,8 @@
 
 👨‍💻 Mes langages maîtrisés :
 
-- Frontend : ReactJS / Chakra UI / HTML / CSS / JavaScript / TypeScript
-- Backend : Python / Javascript
-
-📈 Mon parcours :
-
-- Baccalauréat Géneral ES (2019-20)
-- Formation en Cours de Développeur Informatique (BAC +3)
+- Frontend : ReactJS/ NextJS / HTML / CSS / JavaScript / TypeScript
+- Backend : Python / Javascript/ NextJS
 
 [![Zaroxii's GitHub stats](https://github-readme-stats.vercel.app/api?username=Zaroxii&show_icons=true&theme=tokyonight)](https://github.com/Zaroxii/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Zaroxii&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
